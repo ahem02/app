@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Bienvenue dans l'application RED CELL !</Text>
+      <Text>Bienvenue dans l'application RED CELL ! yo bitch </Text>
       <StatusBar style="auto" />
     </View>
   );
